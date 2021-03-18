@@ -1,2 +1,2 @@
 # snake_menu
-Prototic of a simple menu for the snake game.
+A prototype of a simple menu for the snake game.
